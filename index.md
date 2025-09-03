@@ -18,4 +18,4 @@ Organizers: Jialun Li, Ronggang Shi, Ruxi Shi
 
 ------
 
-{% include template/credits.html %}
+
